@@ -1,0 +1,27 @@
+.listOfContacts {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 400px;
+  padding: 10px;
+  background-color: #44b0ee;
+  border: 1px solid #00095bb3;
+  border-radius: 5px;
+}
+.contact {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: #fff;
+  border: 1px solid #00095bb3;
+  border-radius: 5px;
+  padding: 10px;
+  margin-bottom: 5px;
+}
+.btn {
+  padding: 4px 8px;
+  cursor: pointer;
+  border-radius: 4px;
+  border: 1px solid #00095bb3;
+}

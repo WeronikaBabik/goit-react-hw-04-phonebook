@@ -7,6 +7,9 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+
+  background: url(../src/components/phone-book_7229022.png) no-repeat;
+  background-color: #aed7ef;
 }
 
 code {
